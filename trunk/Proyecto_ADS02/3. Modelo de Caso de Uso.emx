@@ -1930,24 +1930,6 @@
               </children>
               <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_DwUg0ZzcEeSlAvSsxOUqqQ" points="[10, -9, -178, 205]$[195, -189, 7, 25]"/>
             </edges>
-            <edges xmi:type="umlnotation:UMLConnector" xmi:id="_F-Q_EJzcEeSlAvSsxOUqqQ" element="_F-JqUJzcEeSlAvSsxOUqqQ" source="_xfO1oG6lEeSc9P9QXxQ1Dw" target="_mBKHYU-6EeS2h7nEPBcJJg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
-              <children xmi:type="notation:DecorationNode" xmi:id="_F-SNMJzcEeSlAvSsxOUqqQ" type="KindLabel">
-                <children xmi:type="notation:BasicDecorationNode" xmi:id="_F-UpcJzcEeSlAvSsxOUqqQ" type="Stereotype"/>
-                <children xmi:type="notation:BasicDecorationNode" xmi:id="_F-VQgJzcEeSlAvSsxOUqqQ" type="Kind"/>
-                <children xmi:type="notation:BasicDecorationNode" xmi:id="_F-UpcZzcEeSlAvSsxOUqqQ" type="Name"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_F-SNMZzcEeSlAvSsxOUqqQ" y="-186"/>
-              </children>
-              <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_F-Q_EZzcEeSlAvSsxOUqqQ" points="[93, 16, -253, -38]$[297, 53, -49, -1]"/>
-            </edges>
-            <edges xmi:type="umlnotation:UMLConnector" xmi:id="_LIJqAJzcEeSlAvSsxOUqqQ" element="_LIHNwJzcEeSlAvSsxOUqqQ" source="_4wyRIJzbEeSlAvSsxOUqqQ" target="_mBKHYU-6EeS2h7nEPBcJJg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
-              <children xmi:type="notation:DecorationNode" xmi:id="_LIKREJzcEeSlAvSsxOUqqQ" type="KindLabel">
-                <children xmi:type="notation:BasicDecorationNode" xmi:id="_LIK4IJzcEeSlAvSsxOUqqQ" type="Stereotype"/>
-                <children xmi:type="notation:BasicDecorationNode" xmi:id="_LILfMJzcEeSlAvSsxOUqqQ" type="Kind"/>
-                <children xmi:type="notation:BasicDecorationNode" xmi:id="_LIK4IZzcEeSlAvSsxOUqqQ" type="Name"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LIKREZzcEeSlAvSsxOUqqQ" y="-186"/>
-              </children>
-              <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_LIJqAZzcEeSlAvSsxOUqqQ" points="[25, -16, -237, 150]$[231, -146, -31, 20]"/>
-            </edges>
             <edges xmi:type="umlnotation:UMLConnector" xmi:id="_CvQP8JzdEeSlAvSsxOUqqQ" element="_CvNzsJzdEeSlAvSsxOUqqQ" source="__hU5gU-7EeS2h7nEPBcJJg" target="_9M724JzcEeSlAvSsxOUqqQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
               <children xmi:type="notation:DecorationNode" xmi:id="_CvQ3AJzdEeSlAvSsxOUqqQ" type="KindLabel">
                 <children xmi:type="notation:BasicDecorationNode" xmi:id="_CvReEJzdEeSlAvSsxOUqqQ" type="Stereotype"/>
@@ -2106,35 +2088,32 @@
             </edges>
           </contents>
         </eAnnotations>
-        <packagedElement xmi:type="uml:UseCase" xmi:id="_mBKHYE-6EeS2h7nEPBcJJg" name="CUN15 - Consultar Expediente de Programación y AETA">
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_mBKHYE-6EeS2h7nEPBcJJg" name="CUN14 - Consultar Expediente de Programación y AETA">
           <ownedComment xmi:id="_fN8XsHtrEeSLv4CqpO2UJA" annotatedElement="_mBKHYE-6EeS2h7nEPBcJJg">
             <body>&lt;p >&lt;b>&lt;/b>&lt;/p></body>
           </ownedComment>
         </packagedElement>
-        <packagedElement xmi:type="uml:UseCase" xmi:id="__hU5gE-7EeS2h7nEPBcJJg" name="CUN16 - Gestionar Reporte Consolidadp de Programación de Productividad y AETA e Informe">
+        <packagedElement xmi:type="uml:UseCase" xmi:id="__hU5gE-7EeS2h7nEPBcJJg" name="CUN15 - Gestionar Reporte Consolidadp de Programación de Productividad y AETA e Informe">
           <include xmi:id="_fAiSYE-8EeS2h7nEPBcJJg" addition="_mBKHYE-6EeS2h7nEPBcJJg"/>
           <include xmi:id="_CvNzsJzdEeSlAvSsxOUqqQ" addition="_9M4zkJzcEeSlAvSsxOUqqQ"/>
         </packagedElement>
-        <packagedElement xmi:type="uml:UseCase" xmi:id="_xazooG6lEeSc9P9QXxQ1Dw" name="CUN13 - Gestionar Programacion de Productividad y AETA">
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_xazooG6lEeSc9P9QXxQ1Dw" name="CUN12 - Gestionar Programacion de Productividad y AETA">
           <include xmi:id="_kFspQHjYEeSuu-RtZ1z3HA" addition="_Ea-mMHgjEeSECbqzouvLAQ"/>
-          <include xmi:id="_F-JqUJzcEeSlAvSsxOUqqQ" addition="_mBKHYE-6EeS2h7nEPBcJJg"/>
           <extensionPoint xmi:id="_A-1xQHtqEeSLv4CqpO2UJA" name="Puntodeextensión1"/>
         </packagedElement>
-        <packagedElement xmi:type="uml:UseCase" xmi:id="_4vcNUJzbEeSlAvSsxOUqqQ" name="CUN14 - Evaluar Programación de Productividad y AETA">
-          <include xmi:id="_LIHNwJzcEeSlAvSsxOUqqQ" addition="_mBKHYE-6EeS2h7nEPBcJJg"/>
-        </packagedElement>
-        <packagedElement xmi:type="uml:UseCase" xmi:id="_MRIrUJzcEeSlAvSsxOUqqQ" name="CUN18 - Evaluar Informe y Reporte de Programación y AETA">
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_4vcNUJzbEeSlAvSsxOUqqQ" name="CUN13 - Evaluar Programación de Productividad y AETA"/>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_MRIrUJzcEeSlAvSsxOUqqQ" name="CUN17 - Evaluar Informe y Reporte de Programación y AETA">
           <include xmi:id="_K8uyQJzeEeSlAvSsxOUqqQ" addition="_FgaTgJzeEeSlAvSsxOUqqQ"/>
         </packagedElement>
-        <packagedElement xmi:type="uml:UseCase" xmi:id="_9M4zkJzcEeSlAvSsxOUqqQ" name="CUN17 - Consultar Asistencia Laboral de Asalariado"/>
-        <packagedElement xmi:type="uml:UseCase" xmi:id="_FgaTgJzeEeSlAvSsxOUqqQ" name="CUN19 - Consultar Reporte e Informe de Programación y AETA"/>
-        <packagedElement xmi:type="uml:UseCase" xmi:id="_MoABQJzeEeSlAvSsxOUqqQ" name="CUN20 - Generar Planilla de Pago de Asalariados">
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_9M4zkJzcEeSlAvSsxOUqqQ" name="CUN16 - Consultar Asistencia Laboral de Asalariado"/>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_FgaTgJzeEeSlAvSsxOUqqQ" name="CUN18 - Consultar Reporte e Informe de Programación y AETA"/>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_MoABQJzeEeSlAvSsxOUqqQ" name="CUN19 - Generar Planilla de Pago de Asalariados">
           <include xmi:id="_Y9zgUJzeEeSlAvSsxOUqqQ" addition="_FgaTgJzeEeSlAvSsxOUqqQ"/>
         </packagedElement>
-        <packagedElement xmi:type="uml:UseCase" xmi:id="_a95IwJzeEeSlAvSsxOUqqQ" name="CUN21 - Firmar Planilla de Pago">
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_a95IwJzeEeSlAvSsxOUqqQ" name="CUN20 - Firmar Planilla de Pago">
           <include xmi:id="_k4WmwJzeEeSlAvSsxOUqqQ" addition="_g1qNYJzeEeSlAvSsxOUqqQ"/>
         </packagedElement>
-        <packagedElement xmi:type="uml:UseCase" xmi:id="_g1qNYJzeEeSlAvSsxOUqqQ" name="CUN22 - Consultar Planilla de Pago"/>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_g1qNYJzeEeSlAvSsxOUqqQ" name="CUN21 - Consultar Planilla de Pago"/>
       </packagedElement>
     </packagedElement>
     <profileApplication xmi:id="_wvuBNhkJEeSWDpYH3ZBZ3Q">
