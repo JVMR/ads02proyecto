@@ -1594,7 +1594,7 @@
               <children xmi:type="notation:SemanticListCompartment" xmi:id="_p0xHQZs6EeSK-cBB1o5_Rg" type="OperationCompartment"/>
               <children xmi:type="notation:SemanticListCompartment" xmi:id="_p0xHQps6EeSK-cBB1o5_Rg" visible="false" type="SignalCompartment"/>
               <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_p0xuUJs6EeSK-cBB1o5_Rg" visible="false" type="StructureCompartment"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p0vSEZs6EeSK-cBB1o5_Rg" x="18744" y="10428"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p0vSEZs6EeSK-cBB1o5_Rg" x="21516" y="10428"/>
             </children>
             <children xmi:type="umlnotation:UMLShape" xmi:id="_-bkn0JtpEeSnLeRtgWd3OA" element="_93ts0JtpEeSnLeRtgWd3OA" fontName="Droid Sans" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Image">
               <children xmi:type="notation:DecorationNode" xmi:id="_-bl18JtpEeSnLeRtgWd3OA" type="ImageCompartment">
@@ -2767,9 +2767,6 @@
                 <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_aXNasJzHEeSwYK5Sx5qiVQ" id="(0.15508648490178834,0.4847161572052402)"/>
                 <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_aXNasZzHEeSwYK5Sx5qiVQ" id="(0.15508648490178834,0.4847161572052402)"/>
               </edges>
-              <edges xmi:type="umlnotation:UMLConnector" xmi:id="_DpQS8KEjEeSm28xWy2yb-Q" element="_DoKt0KEjEeSm28xWy2yb-Q" source="__ln28JunEeSnLeRtgWd3OA" target="_DFIDsJuoEeSnLeRtgWd3OA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
-                <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_DpQS8aEjEeSm28xWy2yb-Q" points="[-80, 5, 579, -30]$[-556, 30, 103, -5]"/>
-              </edges>
             </contents>
             <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_gPFXkJzIEeSwYK5Sx5qiVQ" type="Sequence" element="_UAl0MJuFEeSnLeRtgWd3OA" name="DS_Actualizar/Dar de baja" measurementUnit="Himetric">
               <children xmi:type="umlnotation:UMLShape" xmi:id="_gPFXkZzIEeSwYK5Sx5qiVQ" element="_UAl0MJuFEeSnLeRtgWd3OA" fontName="Droid Sans" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
@@ -2966,10 +2963,6 @@
             <end xmi:id="_aXFe4JzHEeSwYK5Sx5qiVQ" role="_GiuL8JuoEeSnLeRtgWd3OA"/>
             <end xmi:id="_aXGtAJzHEeSwYK5Sx5qiVQ" role="_GiuL8JuoEeSnLeRtgWd3OA"/>
           </ownedConnector>
-          <ownedConnector xmi:id="_DoKt0KEjEeSm28xWy2yb-Q">
-            <end xmi:id="_DoLU4KEjEeSm28xWy2yb-Q" role="__li-cJunEeSnLeRtgWd3OA"/>
-            <end xmi:id="_DoLU4aEjEeSm28xWy2yb-Q" role="_DFFncJuoEeSnLeRtgWd3OA"/>
-          </ownedConnector>
           <lifeline xmi:id="__liXYJunEeSnLeRtgWd3OA" name="asalariado" represents="__li-cJunEeSnLeRtgWd3OA"/>
           <lifeline xmi:id="_DFFAYJuoEeSnLeRtgWd3OA" name="gestionarSolicitudLES" represents="_DFFncJuoEeSnLeRtgWd3OA" coveredBy="_EJbw8JzHEeSwYK5Sx5qiVQ _EJcYAJzHEeSwYK5Sx5qiVQ _EJdmIJzHEeSwYK5Sx5qiVQ _EJeNMJzHEeSwYK5Sx5qiVQ _vejn4JzHEeSwYK5Sx5qiVQ _vekO8JzHEeSwYK5Sx5qiVQ _vek2AJzHEeSwYK5Sx5qiVQ _veldEJzHEeSwYK5Sx5qiVQ _zmnpcJzHEeSwYK5Sx5qiVQ _zmoQgJzHEeSwYK5Sx5qiVQ _zmpeoJzHEeSwYK5Sx5qiVQ _8SDIgJzHEeSwYK5Sx5qiVQ _8SDvkJzHEeSwYK5Sx5qiVQ _8SEWoJzHEeSwYK5Sx5qiVQ _BV5oUJ5GEeSHMsJX50ma7w _BV6PYJ5GEeSHMsJX50ma7w _BV62cJ5GEeSHMsJX50ma7w _bq9hkJzHEeSwYK5Sx5qiVQ _bq-IoJzHEeSwYK5Sx5qiVQ _bq86gJzHEeSwYK5Sx5qiVQ"/>
           <lifeline xmi:id="_GOCVYJuoEeSnLeRtgWd3OA" name="solicitudLES" represents="_GOC8cJuoEeSnLeRtgWd3OA" coveredBy="_ZLs0YJzIEeSwYK5Sx5qiVQ _ZLtbcJzIEeSwYK5Sx5qiVQ _ZLuCgJzIEeSwYK5Sx5qiVQ _iqenYJ5GEeSHMsJX50ma7w _iqfOcJ5GEeSHMsJX50ma7w _iqf1gJ5GEeSHMsJX50ma7w"/>
@@ -3025,7 +3018,7 @@
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_iqf1gJ5GEeSHMsJX50ma7w" covered="_GOCVYJuoEeSnLeRtgWd3OA" event="_kvoWAJ5GEeSHMsJX50ma7w"/>
           <message xmi:id="_EJai0JzHEeSwYK5Sx5qiVQ" name="Muestra interfaz, habilita opciónes actualizar, dar de baja" receiveEvent="_EJcYAJzHEeSwYK5Sx5qiVQ" sendEvent="_EJbw8JzHEeSwYK5Sx5qiVQ" connector="_Dkc0kJzHEeSwYK5Sx5qiVQ"/>
           <message xmi:id="_bq7FUJzHEeSwYK5Sx5qiVQ" name="Selecciona opción Consultar" receiveEvent="_bq86gJzHEeSwYK5Sx5qiVQ" sendEvent="_bq7sYJzHEeSwYK5Sx5qiVQ" connector="_oLtp4JuqEeSnLeRtgWd3OA"/>
-          <message xmi:id="_i11M0JzHEeSwYK5Sx5qiVQ" name="Obtiene datos de solicitud con estado &quot;Disconforme&quot;" receiveEvent="_i12a8JzHEeSwYK5Sx5qiVQ" sendEvent="_i11z4JzHEeSwYK5Sx5qiVQ" connector="_aXE30JzHEeSwYK5Sx5qiVQ"/>
+          <message xmi:id="_i11M0JzHEeSwYK5Sx5qiVQ" name="Invoca caso de uso consultar y obtiene solicitud con estado &quot;Disconforme&quot;" receiveEvent="_i12a8JzHEeSwYK5Sx5qiVQ" sendEvent="_i11z4JzHEeSwYK5Sx5qiVQ" connector="_aXE30JzHEeSwYK5Sx5qiVQ"/>
           <message xmi:id="_veiZwJzHEeSwYK5Sx5qiVQ" name="Muestra datos de solicitud" receiveEvent="_vekO8JzHEeSwYK5Sx5qiVQ" sendEvent="_vejn4JzHEeSwYK5Sx5qiVQ" connector="_Dkc0kJzHEeSwYK5Sx5qiVQ"/>
           <message xmi:id="_zmmbUJzHEeSwYK5Sx5qiVQ" name="Corrige datos de ciertos campos" receiveEvent="_zmnpcJzHEeSwYK5Sx5qiVQ" sendEvent="_zmnCYJzHEeSwYK5Sx5qiVQ" connector="_oLtp4JuqEeSnLeRtgWd3OA"/>
           <message xmi:id="_8SBTUJzHEeSwYK5Sx5qiVQ" name="Selecciona opción Actualizar" receiveEvent="_8SDIgJzHEeSwYK5Sx5qiVQ" sendEvent="_8SChcJzHEeSwYK5Sx5qiVQ" connector="_oLtp4JuqEeSnLeRtgWd3OA"/>
@@ -3261,6 +3254,7 @@
           <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_RFxvMZ7CEeSSTYfRBLOKHg" value="1"/>
           <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_RFxvMJ7CEeSSTYfRBLOKHg" value="1"/>
         </ownedAttribute>
+        <ownedOperation xmi:id="_oXyZgJzHEeSwYK5Sx5qiVQ" name="Invoca caso de uso consultar, obtiene solicitud con estado &quot;Disconforme&quot;."/>
         <ownedOperation xmi:id="_j0p9IJt1EeSnLeRtgWd3OA" name="Invoca"/>
         <ownedOperation xmi:id="_F5amgJt3EeSnLeRtgWd3OA" name="Calcula sustracción de fecha de inicio y fin"/>
         <ownedOperation xmi:id="_SY7hkJt_EeSnLeRtgWd3OA" name="Valida vista previa (Si se ejecuta punto 11)"/>
@@ -3357,7 +3351,6 @@
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </ownedAttribute>
         <ownedOperation xmi:id="_sJ2FcJuAEeSnLeRtgWd3OA" name="Guarda codigo generado y guarda datos."/>
-        <ownedOperation xmi:id="_oXyZgJzHEeSwYK5Sx5qiVQ" name="Invoca caso de uso consultar, obtiene solicitud con estado &quot;Disconforme&quot;."/>
         <ownedOperation xmi:id="_cPU9cJzIEeSwYK5Sx5qiVQ" name="Guarda datos y cambia estado a &quot;Actualizado&quot;"/>
         <ownedOperation xmi:id="_kvnH4J5GEeSHMsJX50ma7w" name="Estado de solicitud cambia a &quot;Cancelado&quot;"/>
         <ownedOperation xmi:id="_fjUvkJ5OEeSHMsJX50ma7w" name="Sistema permite adjuntar archivo en LES"/>
@@ -5452,7 +5445,7 @@
                 <children xmi:type="notation:DecorationNode" xmi:id="_obpxcKDbEeS7yKNm9W5bmQ" type="MessageNameLabel">
                   <children xmi:type="notation:BasicDecorationNode" xmi:id="_obpxcqDbEeS7yKNm9W5bmQ" type="Stereotype"/>
                   <children xmi:type="notation:BasicDecorationNode" xmi:id="_obqYgKDbEeS7yKNm9W5bmQ" type="Name"/>
-                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_obpxcaDbEeS7yKNm9W5bmQ" y="-317"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_obpxcaDbEeS7yKNm9W5bmQ" x="-828" y="-581"/>
                 </children>
                 <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_obpKY6DbEeS7yKNm9W5bmQ" points="[0, 0, 0, -10]$[0, 10, 0, 0]"/>
                 <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_obqYgaDbEeS7yKNm9W5bmQ" id="12:1322"/>
@@ -5636,7 +5629,20 @@
               <children xmi:type="notation:SemanticListCompartment" xmi:id="_JVmacJ6hEeSOoNqyhP1V8g" type="OperationCompartment"/>
               <children xmi:type="notation:SemanticListCompartment" xmi:id="_JVnBgJ6hEeSOoNqyhP1V8g" visible="false" type="SignalCompartment"/>
               <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_JVnokJ6hEeSOoNqyhP1V8g" visible="false" type="StructureCompartment"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JViJAZ6hEeSOoNqyhP1V8g" x="4577" y="4048"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JViJAZ6hEeSOoNqyhP1V8g" x="6864" y="6864"/>
+            </children>
+            <children xmi:type="umlnotation:UMLShape" xmi:id="_c3TS8KEnEeSm28xWy2yb-Q" element="_z8UtcJs3EeSK-cBB1o5_Rg" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+              <children xmi:type="notation:DecorationNode" xmi:id="_c3T6AKEnEeSm28xWy2yb-Q" type="ImageCompartment">
+                <layoutConstraint xmi:type="notation:Size" xmi:id="_c3T6AaEnEeSm28xWy2yb-Q" width="1320" height="1320"/>
+              </children>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_c3T6AqEnEeSm28xWy2yb-Q" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_c3T6A6EnEeSm28xWy2yb-Q" type="Name"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_c3UhEKEnEeSm28xWy2yb-Q" type="Parent"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_c3UhEaEnEeSm28xWy2yb-Q" type="AttributeCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_c3UhEqEnEeSm28xWy2yb-Q" type="OperationCompartment" collapsed="true"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_c3VIIKEnEeSm28xWy2yb-Q" visible="false" type="SignalCompartment"/>
+              <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_c3VIIaEnEeSm28xWy2yb-Q" visible="false" type="StructureCompartment"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_c3TS8aEnEeSm28xWy2yb-Q" x="8052" y="1848"/>
             </children>
             <element xsi:nil="true"/>
           </contents>
@@ -5685,6 +5691,7 @@
         <ownedOperation xmi:id="_CI5CQJ9IEeSQyauzP7mLvw" name="Selecciona la opcíon Salir."/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_JErCgJ6hEeSOoNqyhP1V8g" name="CI_GenerarRES">
+        <eAnnotations xmi:id="_Y1TdIKEnEeSm28xWy2yb-Q" source="uml2.diagrams"/>
         <ownedAttribute xmi:id="_i27foJ6hEeSOoNqyhP1V8g" name="consultarSolicitudLES" visibility="private" type="_rBE-0Js5EeSK-cBB1o5_Rg" association="_i25DYJ6hEeSOoNqyhP1V8g">
           <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_i28twJ6hEeSOoNqyhP1V8g" value="1"/>
           <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_i28GsJ6hEeSOoNqyhP1V8g" value="1"/>
