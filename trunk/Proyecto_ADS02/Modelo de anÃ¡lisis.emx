@@ -1299,7 +1299,7 @@
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_bCBm5nvZEeS_t4Ef4kXW7A" type="Parent"/>
             <children xmi:type="notation:ListCompartment" xmi:id="_bCBm53vZEeS_t4Ef4kXW7A" visible="false" type="Extension_Points"/>
             <element xmi:type="uml:UseCase" href="3.%20Modelo%20de%20Caso%20de%20Uso.emx#_GZCC4EqzEeSAc_MCztZ6iQ?3.-%20Modelo%20de%20Caso%20de%20Uso/Casos%20de%20Uso/Licencia%20por%20enfermedad%20subsidiada/CUN06%20-%20Gestionar%20Resolución%20Administrativa%20de%20LES?"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bCBm4XvZEeS_t4Ef4kXW7A" x="1188" y="14388"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bCBm4XvZEeS_t4Ef4kXW7A" x="1584" y="21384"/>
           </children>
           <children xmi:type="umlnotation:UMLShape" xmi:id="_JH7h0JszEeSK-cBB1o5_Rg" element="_JH3QYJszEeSK-cBB1o5_Rg" fontName="Droid Sans" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
             <children xmi:type="notation:DecorationNode" xmi:id="_JH9XAJszEeSK-cBB1o5_Rg" type="ImageCompartment">
@@ -1354,7 +1354,7 @@
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_y7Wa8J6gEeSOoNqyhP1V8g" type="Parent"/>
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_y7Wa8Z6gEeSOoNqyhP1V8g" visible="false" type="AttributeCompartment"/>
             <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_y7Wa8p6gEeSOoNqyhP1V8g" type="CollaborationCompartment"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_y7UlwZ6gEeSOoNqyhP1V8g" x="17171" y="14922"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_y7UlwZ6gEeSOoNqyhP1V8g" x="17556" y="21384"/>
           </children>
           <element xsi:nil="true"/>
           <edges xmi:type="umlnotation:UMLConnector" xmi:id="_J6xUAJszEeSK-cBB1o5_Rg" element="_J6kfsJszEeSK-cBB1o5_Rg" source="_JH7h0JszEeSK-cBB1o5_Rg" target="_YZfeYHvZEeS_t4Ef4kXW7A" fontName="Droid Sans" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
@@ -5632,7 +5632,7 @@
         <ownedAttribute xmi:id="_enxHcKDZEeS7yKNm9W5bmQ" name="cE_SolicitudLES2" type="_pcApAJs6EeSK-cBB1o5_Rg"/>
         <ownedAttribute xmi:id="_Cwqg4KDdEeS7yKNm9W5bmQ" name="cE_SolicitudLES3" type="_pcApAJs6EeSK-cBB1o5_Rg"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:Collaboration" xmi:id="_y7N4EJ6gEeSOoNqyhP1V8g" name="RA_GenerarRES" clientDependency="_3JTpIJ6gEeSOoNqyhP1V8g">
+      <packagedElement xmi:type="uml:Collaboration" xmi:id="_y7N4EJ6gEeSOoNqyhP1V8g" name="RA_GestionarRES" clientDependency="_3JTpIJ6gEeSOoNqyhP1V8g">
         <eAnnotations xmi:id="_GBuO4J6hEeSOoNqyhP1V8g" source="uml2.diagrams">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_GBuO4Z6hEeSOoNqyhP1V8g" type="Class" name="DCL_GenerarRES">
             <children xmi:type="umlnotation:UMLShape" xmi:id="_JViJAJ6hEeSOoNqyhP1V8g" element="_JErCgJ6hEeSOoNqyhP1V8g" fontName="Droid Sans" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
@@ -5863,17 +5863,6 @@
             <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_FVARGHvqEeSr-fL_RipCJw" type="CollaborationCompartment"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FVAREXvqEeSr-fL_RipCJw" x="13068" y="5016"/>
           </children>
-          <children xmi:type="umlnotation:UMLShape" xmi:id="_HYdWkXvqEeSr-fL_RipCJw" element="_HYdWkHvqEeSr-fL_RipCJw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
-            <children xmi:type="notation:DecorationNode" xmi:id="_HYjdMHvqEeSr-fL_RipCJw" type="ImageCompartment">
-              <layoutConstraint xmi:type="notation:Size" xmi:id="_HYjdMXvqEeSr-fL_RipCJw" width="1320" height="1320"/>
-            </children>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_HYjdMnvqEeSr-fL_RipCJw" type="Stereotype"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_HYjdM3vqEeSr-fL_RipCJw" type="Name"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_HYjdNHvqEeSr-fL_RipCJw" type="Parent"/>
-            <children xmi:type="notation:SemanticListCompartment" xmi:id="_HYjdNXvqEeSr-fL_RipCJw" visible="false" type="AttributeCompartment"/>
-            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_HYjdNnvqEeSr-fL_RipCJw" type="CollaborationCompartment"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_HYdWknvqEeSr-fL_RipCJw" x="13332" y="7920"/>
-          </children>
           <children xmi:type="umlnotation:UMLShape" xmi:id="_JubvcHvqEeSr-fL_RipCJw" element="_JuVo0HvqEeSr-fL_RipCJw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
             <children xmi:type="notation:DecorationNode" xmi:id="_JubvcnvqEeSr-fL_RipCJw" type="ImageCompartment">
               <layoutConstraint xmi:type="notation:Size" xmi:id="_Jubvc3vqEeSr-fL_RipCJw" width="1320" height="1320"/>
@@ -5916,7 +5905,6 @@
       <packagedElement xmi:type="uml:Dependency" xmi:id="_X0l3AHvYEeS_t4Ef4kXW7A" supplier="_3wRl8HvXEeS_t4Ef4kXW7A" client="_54WFsHvXEeS_t4Ef4kXW7A"/>
       <packagedElement xmi:type="uml:Collaboration" xmi:id="_ChuRIHvqEeSr-fL_RipCJw" name="RA_Evaluar_Resolución_Administrativa_de_LES" clientDependency="_RPdQ4HvqEeSr-fL_RipCJw"/>
       <packagedElement xmi:type="uml:Collaboration" xmi:id="_FU6KcHvqEeSr-fL_RipCJw" name="RA_Consultar_Resolución_Administrativa_De_LES" clientDependency="_QxIWIHvqEeSr-fL_RipCJw"/>
-      <packagedElement xmi:type="uml:Collaboration" xmi:id="_HYdWkHvqEeSr-fL_RipCJw" name="RA_Actualizar_Resolución_Administrativa"/>
       <packagedElement xmi:type="uml:Collaboration" xmi:id="_JuVo0HvqEeSr-fL_RipCJw" name="RA_Visar_Resolución_Administrativa_De_LES" clientDependency="_QHlC0HvqEeSr-fL_RipCJw"/>
       <packagedElement xmi:type="uml:Realization" xmi:id="_QHlC0HvqEeSr-fL_RipCJw" client="_JuVo0HvqEeSr-fL_RipCJw">
         <supplier xmi:type="uml:UseCase" href="3.%20Modelo%20de%20Caso%20de%20Uso.emx#__e4CQEq0EeSAc_MCztZ6iQ?3.-%20Modelo%20de%20Caso%20de%20Uso/Casos%20de%20Uso/Licencia%20por%20enfermedad%20subsidiada/CUN09%20-%20Visar%20resolución%20administrativa%20de%20LES?"/>
@@ -6408,6 +6396,19 @@
       <packagedElement xmi:type="uml:Collaboration" xmi:id="_LfMWEJ5SEeSHMsJX50ma7w" name="RA_BuscarAsalariado" clientDependency="_POpDUJ5SEeSHMsJX50ma7w">
         <eAnnotations xmi:id="_Ud9MwJ6SEeSOoNqyhP1V8g" source="uml2.diagrams">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_Ud9z0J6SEeSOoNqyhP1V8g" type="Class" name="DCL_BuscarAsalariado">
+            <children xmi:type="umlnotation:UMLShape" xmi:id="_ObJ-AKEdEeSm28xWy2yb-Q" element="_NLEPIKEdEeSm28xWy2yb-Q" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+              <children xmi:type="notation:DecorationNode" xmi:id="_Obmp8KEdEeSm28xWy2yb-Q" type="ImageCompartment">
+                <layoutConstraint xmi:type="notation:Size" xmi:id="_Obmp8aEdEeSm28xWy2yb-Q" width="1320" height="1320"/>
+              </children>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_Obmp8qEdEeSm28xWy2yb-Q" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_Obwa8KEdEeSm28xWy2yb-Q" type="Name"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_Obwa8aEdEeSm28xWy2yb-Q" type="Parent"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_Obwa8qEdEeSm28xWy2yb-Q" type="AttributeCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_Obwa86EdEeSm28xWy2yb-Q" type="OperationCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_Obwa9KEdEeSm28xWy2yb-Q" visible="false" type="SignalCompartment"/>
+              <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_Ob5k4KEdEeSm28xWy2yb-Q" visible="false" type="StructureCompartment"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ObJ-AaEdEeSm28xWy2yb-Q" x="3122" y="3624"/>
+            </children>
             <element xsi:nil="true"/>
           </contents>
         </eAnnotations>
@@ -6436,6 +6437,7 @@
       <packagedElement xmi:type="uml:Realization" xmi:id="_POpDUJ5SEeSHMsJX50ma7w" client="_LfMWEJ5SEeSHMsJX50ma7w">
         <supplier xmi:type="uml:UseCase" href="3.%20Modelo%20de%20Caso%20de%20Uso.emx#_Ea-mMHgjEeSECbqzouvLAQ?3.-%20Modelo%20de%20Caso%20de%20Uso/Casos%20de%20Uso/Reutilizables/CUN02%20-%20Buscar%20Asalariado?"/>
       </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_NLEPIKEdEeSm28xWy2yb-Q" name="CI_BuscarAsalariado"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_Dx4WoHvYEeS_t4Ef4kXW7A" name="Asistencia" clientDependency="_QTNwQHvYEeS_t4Ef4kXW7A">
       <eAnnotations xmi:id="_Dx5kwHvYEeS_t4Ef4kXW7A" source="uml2.diagrams" references="_Dx5kwXvYEeS_t4Ef4kXW7A">
@@ -6474,10 +6476,41 @@
         </contents>
       </eAnnotations>
       <packagedElement xmi:type="uml:Dependency" xmi:id="_QTNwQHvYEeS_t4Ef4kXW7A" supplier="_C1JooHvYEeS_t4Ef4kXW7A" client="_Dx4WoHvYEeS_t4Ef4kXW7A"/>
-      <packagedElement xmi:type="uml:Collaboration" xmi:id="_gB11MHvsEeSr-fL_RipCJw" name="RA_Registrar datos de asistencia" clientDependency="_iU_jkHvsEeSr-fL_RipCJw"/>
+      <packagedElement xmi:type="uml:Collaboration" xmi:id="_gB11MHvsEeSr-fL_RipCJw" name="RA_Registrar datos de asistencia" clientDependency="_iU_jkHvsEeSr-fL_RipCJw">
+        <eAnnotations xmi:id="_km944KEdEeSm28xWy2yb-Q" source="uml2.diagrams">
+          <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_km944aEdEeSm28xWy2yb-Q" type="Class" name="DCL_RegistrarDatosAsistencia">
+            <children xmi:type="umlnotation:UMLShape" xmi:id="_sexioaEdEeSm28xWy2yb-Q" element="_sN51EKEdEeSm28xWy2yb-Q" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+              <children xmi:type="notation:DecorationNode" xmi:id="_sexio6EdEeSm28xWy2yb-Q" type="ImageCompartment">
+                <layoutConstraint xmi:type="notation:Size" xmi:id="_sexipKEdEeSm28xWy2yb-Q" width="1320" height="1320"/>
+              </children>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_sexipaEdEeSm28xWy2yb-Q" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_se7ToKEdEeSm28xWy2yb-Q" type="Name"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_se7ToaEdEeSm28xWy2yb-Q" type="Parent"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_se7ToqEdEeSm28xWy2yb-Q" type="AttributeCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_se7To6EdEeSm28xWy2yb-Q" type="OperationCompartment"/>
+              <children xmi:type="notation:SemanticListCompartment" xmi:id="_se7TpKEdEeSm28xWy2yb-Q" visible="false" type="SignalCompartment"/>
+              <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_se7TpaEdEeSm28xWy2yb-Q" visible="false" type="StructureCompartment"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sexioqEdEeSm28xWy2yb-Q" x="4488" y="3432"/>
+            </children>
+            <element xsi:nil="true"/>
+          </contents>
+        </eAnnotations>
+        <ownedBehavior xmi:type="uml:Interaction" xmi:id="_vW_F4KEdEeSm28xWy2yb-Q" name="Flujo_Basico">
+          <eAnnotations xmi:id="_vXSn4KEdEeSm28xWy2yb-Q" source="uml2.diagrams">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_vXSn4aEdEeSm28xWy2yb-Q" type="Communication" element="_vW_F4KEdEeSm28xWy2yb-Q" name="DCM_RegistrarDatosAsistencia" measurementUnit="Himetric">
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_vXSn4qEdEeSm28xWy2yb-Q" type="CommunicationFrame" element="_vW_F4KEdEeSm28xWy2yb-Q" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
+                <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_vXSn46EdEeSm28xWy2yb-Q" type="CommunicationCompartment"/>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_vXSn5KEdEeSm28xWy2yb-Q" type="Name"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vXSn5aEdEeSm28xWy2yb-Q" x="793" y="793"/>
+              </children>
+            </contents>
+          </eAnnotations>
+        </ownedBehavior>
+      </packagedElement>
       <packagedElement xmi:type="uml:Realization" xmi:id="_iU_jkHvsEeSr-fL_RipCJw" client="_gB11MHvsEeSr-fL_RipCJw">
         <supplier xmi:type="uml:UseCase" href="3.%20Modelo%20de%20Caso%20de%20Uso.emx#_9VD7YHAqEeSXJYaA_CtQAQ?3.-%20Modelo%20de%20Caso%20de%20Uso/Casos%20de%20Uso/Reutilizables/CUN10%20-%20Registrar%20datos%20de%20asistencia?"/>
       </packagedElement>
+      <packagedElement xmi:type="uml:Class" xmi:id="_sN51EKEdEeSm28xWy2yb-Q" name="CI_RegistrarDatosAsistencia"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_gIPxoHwMEeS2RMZqs9BP_A" name="PrimitiveTypes">
       <packagedElement xmi:type="uml:PrimitiveType" xmi:id="_gIQYsHwMEeS2RMZqs9BP_A" name="Date"/>
@@ -6524,4 +6557,6 @@
   <RUPAnalysis:Boundary xmi:id="_C3OBwJ6hEeSOoNqyhP1V8g" base_Class="_Cl5oQJ6hEeSOoNqyhP1V8g"/>
   <RUPAnalysis:Boundary xmi:id="_JVbbUJ6hEeSOoNqyhP1V8g" base_Class="_JErCgJ6hEeSOoNqyhP1V8g"/>
   <RUPAnalysis:Boundary xmi:id="_UlZ6wJ6hEeSOoNqyhP1V8g" base_Class="_UU1IIJ6hEeSOoNqyhP1V8g"/>
+  <RUPAnalysis:Boundary xmi:id="_OVn9wKEdEeSm28xWy2yb-Q" base_Class="_NLEPIKEdEeSm28xWy2yb-Q"/>
+  <RUPAnalysis:Boundary xmi:id="_sexioKEdEeSm28xWy2yb-Q" base_Class="_sN51EKEdEeSm28xWy2yb-Q"/>
 </xmi:XMI>
