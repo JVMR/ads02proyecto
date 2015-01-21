@@ -1040,7 +1040,7 @@
             <element xsi:nil="true"/>
           </contents>
         </eAnnotations>
-        <packagedElement xmi:type="uml:UseCase" xmi:id="_9VD7YHAqEeSXJYaA_CtQAQ" name="CUN10 - Registrar datos de asistencia">
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_9VD7YHAqEeSXJYaA_CtQAQ" name="CUN11 - Registrar datos de asistencia">
           <extensionPoint xmi:id="_XkYnoHAuEeSXJYaA_CtQAQ" name="Puntodeextensión1"/>
         </packagedElement>
         <packagedElement xmi:type="uml:UseCase" xmi:id="_Ea-mMHgjEeSECbqzouvLAQ" name="CUN02 - Buscar Asalariado"/>
@@ -1592,15 +1592,15 @@
         <packagedElement xmi:type="uml:UseCase" xmi:id="_GZCC4EqzEeSAc_MCztZ6iQ" name="CUN06 - Generar Resolución Administrativa de LES">
           <include xmi:id="_p9xnMHZ4EeSZyOuyKsoGRA" addition="_H12qYEqsEeSAc_MCztZ6iQ"/>
         </packagedElement>
-        <packagedElement xmi:type="uml:UseCase" xmi:id="_h6kP0Eq0EeSAc_MCztZ6iQ" name="CUN08 - Evaluar resolucion administrativa de LES">
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_h6kP0Eq0EeSAc_MCztZ6iQ" name="CUN09 - Evaluar resolucion administrativa de LES">
           <include xmi:id="_elP_IHAqEeSXJYaA_CtQAQ" addition="_WKRW4HAqEeSXJYaA_CtQAQ"/>
         </packagedElement>
-        <packagedElement xmi:type="uml:UseCase" xmi:id="__e4CQEq0EeSAc_MCztZ6iQ" name="CUN09 - Visar resolución administrativa de LES">
+        <packagedElement xmi:type="uml:UseCase" xmi:id="__e4CQEq0EeSAc_MCztZ6iQ" name="CUN10 - Visar resolución administrativa de LES">
           <include xmi:id="_iACD8HAqEeSXJYaA_CtQAQ" addition="_WKRW4HAqEeSXJYaA_CtQAQ"/>
           <include xmi:id="_l_IUkKDvEeS7yKNm9W5bmQ" addition="_9VD7YHAqEeSXJYaA_CtQAQ"/>
           <extensionPoint xmi:id="_ePOw4HaCEeSZyOuyKsoGRA" name="Puntodeextensión1"/>
         </packagedElement>
-        <packagedElement xmi:type="uml:UseCase" xmi:id="_WKRW4HAqEeSXJYaA_CtQAQ" name="CUN07 - Consultar Resolución Administrativa de LES"/>
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_WKRW4HAqEeSXJYaA_CtQAQ" name="CUN08 - Consultar Resolución Administrativa de LES"/>
         <packagedElement xmi:type="uml:Association" xmi:id="_jf9PMHZ4EeSZyOuyKsoGRA" memberEnd="_jgCHsHZ4EeSZyOuyKsoGRA _jgHAMHZ4EeSZyOuyKsoGRA" navigableOwnedEnd="_jgCHsHZ4EeSZyOuyKsoGRA">
           <ownedEnd xmi:id="_jgCHsHZ4EeSZyOuyKsoGRA" name="encargado de ESSALUD" visibility="private" type="_aG8F0HaCEeSZyOuyKsoGRA" association="_jf9PMHZ4EeSZyOuyKsoGRA">
             <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_jgEj8HZ4EeSZyOuyKsoGRA" value="1"/>
@@ -1614,7 +1614,7 @@
         <packagedElement xmi:type="uml:UseCase" xmi:id="_aG8F0HaCEeSZyOuyKsoGRA" name="CUN05 - Evaluar descanso medico">
           <include xmi:id="_tVx5QHaCEeSZyOuyKsoGRA" addition="_H12qYEqsEeSAc_MCztZ6iQ"/>
         </packagedElement>
-        <packagedElement xmi:type="uml:UseCase" xmi:id="_xLUPoKEwEeSm28xWy2yb-Q" name="CUN06.1 - Actualizar Resolución adminitrativa de LES">
+        <packagedElement xmi:type="uml:UseCase" xmi:id="_xLUPoKEwEeSm28xWy2yb-Q" name="CUN07 - Actualizar Resolución adminitrativa de LES">
           <include xmi:id="_LlOTgKDtEeS7yKNm9W5bmQ" addition="_WKRW4HAqEeSXJYaA_CtQAQ"/>
         </packagedElement>
       </packagedElement>
