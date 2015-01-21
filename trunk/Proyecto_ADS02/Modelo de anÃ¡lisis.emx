@@ -6045,7 +6045,7 @@
             <element xsi:nil="true"/>
           </contents>
         </eAnnotations>
-        <ownedBehavior xmi:type="uml:Interaction" xmi:id="_WiDZoHvvEeSr-fL_RipCJw" name="Interacción1">
+        <ownedBehavior xmi:type="uml:Interaction" xmi:id="_WiDZoHvvEeSr-fL_RipCJw" name="S">
           <eAnnotations xmi:id="_WiDZoXvvEeSr-fL_RipCJw" source="uml2.diagrams">
             <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_WiDZonvvEeSr-fL_RipCJw" type="Communication" element="_WiDZoHvvEeSr-fL_RipCJw" name="DC_FlujoBasico" measurementUnit="Himetric">
               <children xmi:type="umlnotation:UMLShape" xmi:id="_WiDZo3vvEeSr-fL_RipCJw" type="CommunicationFrame" element="_WiDZoHvvEeSr-fL_RipCJw" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
@@ -6084,6 +6084,18 @@
                     </eAnnotations>
                     <children xmi:type="notation:BasicDecorationNode" xmi:id="_CAB_tHvyEeSr-fL_RipCJw" type="Name"/>
                     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CAB_sXvyEeSr-fL_RipCJw" x="17635" y="1108"/>
+                  </children>
+                  <children xmi:type="notation:Shape" xmi:id="_USWWsKEkEeSURfd6S4dl7w" type="Note" fontName="Segoe UI" fontHeight="8" description="&lt;p>Prueba de Romario de programación y aeta&lt;/p>&lt;p>&lt;/p>" fillColor="13956346" transparency="0" lineColor="12632258" lineWidth="1">
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_US2F8KEkEeSURfd6S4dl7w" type="DiagramName">
+                      <element xsi:nil="true"/>
+                    </children>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_US2tAKEkEeSURfd6S4dl7w" type="Description">
+                      <element xsi:nil="true"/>
+                    </children>
+                    <styles xmi:type="notation:TextStyle" xmi:id="_USWWsaEkEeSURfd6S4dl7w"/>
+                    <styles xmi:type="notation:LineTypeStyle" xmi:id="_USWWsqEkEeSURfd6S4dl7w"/>
+                    <element xsi:nil="true"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_USWWs6EkEeSURfd6S4dl7w" x="11670" y="1114"/>
                   </children>
                 </children>
                 <children xmi:type="notation:BasicDecorationNode" xmi:id="_WiDZpXvvEeSr-fL_RipCJw" type="Name"/>
